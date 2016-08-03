@@ -1,0 +1,7 @@
+What happens when you initialze a repository? Why do you need to do it?
+
+A .git file is created when you initialize a repository.  You need to do this so that you can starting doing commits.  If there is no repository it will not commit changes as a repository.
+
+How is the staging are different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different from the working directory in that it is not actually a location. It just holds the information of which files will be commited in the next commit. The value of this is to show which files will be added to the next commit.
