@@ -17,3 +17,7 @@ One situation where it would be helpful is different languages of the program, a
 How do the diagrams help you visualize the branch structure?
 
 The diagrams help you visualize the branch structure by seeing which parts of the code are included and which parts are not in each branch and how many different branches there are.
+
+What is the reseult of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches is to merge all of the changes from both branches together.  We represent it in the diagram the way we do because once they are merged the merged version becomes the master and all branches will be created from there.
