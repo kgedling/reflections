@@ -13,3 +13,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 The benefit of having the state of the last known state of the remoted stored locally is if you decide to merge the branches or the code so that you can have the most up to date code at all times tested and functional.
 
+How would you collaberate without using Git or GitHub? What would be easier, and what would be harder?
+
+The only other way to collaberate that I have been exposed to is a Wiki type of site and it is not conducive to code sharing. It would be difficult to track changes and bug fixes. This is a much better way of version control and version collaberation instead of posting the latest version, because it could have changed by the time someone sees the message on a wiki site.
+
