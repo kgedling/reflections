@@ -17,3 +17,7 @@ How would you collaberate without using Git or GitHub? What would be easier, and
 
 The only other way to collaberate that I have been exposed to is a Wiki type of site and it is not conducive to code sharing. It would be difficult to track changes and bug fixes. This is a much better way of version control and version collaberation instead of posting the latest version, because it could have changed by the time someone sees the message on a wiki site.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a separate branch rather than directly in master when you are making changes and than pushing it to GitHub so that you can collaberate with colleagues before they are merged with the master.  You want to make sure that whoever you are collaberating with approves or checks your work before they branch is merged with master.
+
